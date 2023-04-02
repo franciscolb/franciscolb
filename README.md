@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Francisco Silveira</h1>
 <h3 align="center">A curious software developer always looking for new challenges.</h3>
 
-- 🔭 I’m currently working on **360Imprimir**
+- 🔭 I’m currently working at **360Imprimir**
 
 - 📫 How to reach me **franciscolbsilveira@gmail.com**
 
